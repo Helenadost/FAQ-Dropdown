@@ -17,6 +17,10 @@
   }
   
   .question {
+    text-align: left;
+    font-size: 1em;
+    border: none;
+    background: transparent;
     padding: 1em;
     cursor: pointer;
   }
